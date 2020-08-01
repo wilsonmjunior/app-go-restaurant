@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/v1595974649/GoRestaurant/logo.79014f0d_kmmdm4.svg" width="400" />
 </h1>
 
-<p align="center"
+<p align="center">
   GoRestaurant is a small application for ordering food. It was developed using React Native together with Typescript
 </p>
 
